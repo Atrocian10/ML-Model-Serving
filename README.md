@@ -2,6 +2,8 @@
 
 A production-grade ML model serving infrastructure built around real-world MLOps and Platform Engineering principles.
 
+> **Authored by Shashwat Tripathi, IIT Bombay**
+
 ## 🎯 What This Demonstrates
 
 This is a **complete, production-ready ML serving platform** — not a toy project. It reflects the kind of engineering decisions you'd make in a real environment:
